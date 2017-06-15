@@ -62,6 +62,8 @@ You can launch the website via `bundle exec middleman` to preview the generated 
 To deploy, open a PR with the changes resulting from `generate_docs` and the
 change will be auto-deployed upon merge.
 
+### Deploy with Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ### Requirements
 
 If the `bundle` command is not found, you can install it with `gem install bundle`.
